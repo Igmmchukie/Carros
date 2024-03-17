@@ -7,11 +7,15 @@ export default {
   theme: {
     colors: {
       'orange': '#e28625',
-      'grenn': '#006971',
+      'green': '#006971',
       'dark-green': '#004140',
       'offwhite': 'rgba(255,255,255,0.75)',
       'white': '#fff',
       'offwhitebg': '#f2f2f2'
+    },
+    fontFamily: {
+      'shoulders': '"Big Shoulders Display"',
+      'Lexend': '"Lexend Deca"'
     }
   },
   plugins: [],
